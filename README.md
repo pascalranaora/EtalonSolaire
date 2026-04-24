@@ -1,6 +1,5 @@
 # Satoshi Nakamoto et Howard T. Odum : l'Étalon Solaire
 <img width="1536" height="2752" alt="Gemini_Generated_Image_8jo9ke8jo9ke8jo9" src="https://github.com/user-attachments/assets/f6526a09-ad5c-40a0-9187-2ec1c4b69e91" />
-Voici un contenu structuré et professionnel pour votre fichier `README.md`. Il est conçu pour refléter la rigueur scientifique de l'**Information Physics Institute** tout en restant accessible à la communauté open source.
 
 ---
 
