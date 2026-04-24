@@ -54,6 +54,7 @@ Ce modèle est une version initiale et comporte des simplifications qui ne deman
 ## 📜 Licence
 
 Ce projet est sous licence MIT. Libre à vous de l'utiliser, de le modifier et de le partager pour faire avancer la compréhension de la thermodynamique des systèmes décentralisés.
+
 ---
 <img width="1536" height="2752" alt="Gemini_Generated_Image_8jo9ke8jo9ke8jo9" src="https://github.com/user-attachments/assets/f6526a09-ad5c-40a0-9187-2ec1c4b69e91" />
 ---
