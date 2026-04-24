@@ -27,6 +27,9 @@ cd etalon-solaire
 
 # Installer les dépendances
 pip install tvDatafeed pandas numpy matplotlib
+
+# Lancer le script depuis un terminal
+python satoshi_emergy.py
 ```
 
 ## 📊 Méthodologie de Calcul
