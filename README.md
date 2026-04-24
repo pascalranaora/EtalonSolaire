@@ -3,7 +3,7 @@
 
 Ce dépôt héberge un outil de modélisation en Python permettant de calculer la **pression exergétique réelle** du réseau Bitcoin. Contrairement aux analyses financières classiques basées sur le prix (fiat), ce modèle évalue la valeur d'un Satoshi en fonction de l'effort physique total fourni par la biosphère, mesuré en **emjoules solaires (sej)**.
 
-Ce projet s'inscrit dans le cadre des recherches sur l'économie biophysique et le concept de **"The Sun Standard"** (L'Étalon Solaire), popularisé dans l'ouvrage *[Homo Biodiversitas]!https://github.com/pascalranaora/HomoBiodiversitas*.
+Ce projet s'inscrit dans le cadre des recherches sur l'économie biophysique et le concept de **"The Sun Standard"** (L'Étalon Solaire), popularisé dans l'ouvrage *[Homo Biodiversitas](https://github.com/pascalranaora/HomoBiodiversitas)*.
 
 ## 🔬 Contexte Théorique
 
